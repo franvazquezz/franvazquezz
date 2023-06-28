@@ -6,7 +6,15 @@
 
 I´m 22 years old studying Full Stack Developer at Henry. I´m from Córdoba, Argentina.
 
-I'm currently working in an intership. I've worked in two projects, the first one is an Intergation proyect with Rick&Morty API, it's an SPA, as part of the Henry bootcamp. The second one, is also an SPA, with theDogApi.com API. Here are the links to the projects deployed: https://creative-canines-fv.vercel.app/
+I'm currently working in an intership. I've worked in two projects, the first one is an Intergation proyect with Rick&Morty API, it's an SPA, as part of the Henry bootcamp. The second one, is also an SPA, with theDogApi.com API. Here are the links to the projects deployed: 
+
+Rick and Morty
+
+https://rickandmorty-fv.up.railway.app/ 
+
+Creative Canines
+
+https://creative-canines-fv.vercel.app/
 
 My skills are CSS, Javascript, Python, React, Redux, Express, SQL, Sequelize, HTML, among others.
 
