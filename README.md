@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Francisco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I´m Francisco Vazquez, welcome to my GitHub. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=50&duration=4000&pause=1000&color=FFF&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer" alt="Typing SVG"/></a></h2>
 
@@ -73,11 +73,8 @@
   </div>
 </h2>
 
-
-# Hi 👋, I´m Francisco Vazquez, welcome to my GitHub.
-
-
 I´m 22 years old studying Full Stack Developer at Henry. I´m from Córdoba, Argentina.
+I can speak Spanish or English very fluently, and I also know a bit of French and Portugese. 
 
 I'm currently working in an intership. I've worked in two projects, the first one is an Intergation proyect with Rick&Morty API, it's an SPA, as part of the Henry bootcamp. The second one, is also an SPA, with theDogApi.com API. Here are the links to the projects deployed: 
 
@@ -93,8 +90,6 @@ Gym Bro
 
 https://gym-vert.vercel.app/
 
-
-I can speak Spanish or English very fluently, and I also know a bit of French and Portugese. 
 
 - 📝 I regularly write articles on [www.linkedin.com/in/francisco-vazquezz](www.linkedin.com/in/francisco-vazquezz)
 
