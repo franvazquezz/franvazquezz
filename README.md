@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I´m Francisco Vazquez, welcome to my GitHub. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h2 align="center" text="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;Frontend+Developer" alt="Typing SVG"/></a></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;Frontend+Developer" alt="Typing SVG"/></h2>
 
 <h2 align="center">🧠 Lenguages and Tools
   <div align="center">
