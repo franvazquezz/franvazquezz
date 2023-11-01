@@ -73,10 +73,10 @@
   </div>
 </h2>
 
-I´m 22 years old studying Full Stack Developer at Henry. I´m from Córdoba, Argentina.
+I´m a 22 years old Full Stack Developer. I´m from Córdoba, Argentina.
 I can speak Spanish or English very fluently, and I also know a bit of French and Portugese. 
 
-I'm currently working in an intership. I've worked in two projects, the first one is an Intergation proyect with Rick&Morty API, it's an SPA, as part of the Henry bootcamp. The second one, is also an SPA, with theDogApi.com API. Here are the links to the projects deployed: 
+I've worked in three projects, the first one is an Intergation proyect with Rick&Morty API, it's an SPA, as part of the Henry bootcamp. The second one, is also an SPA, with theDogApi.com API. the last one it's part of a intership at Huntek, but I can't show you that. Here are the links to the projects deployed: 
 
 Creative Canines
 
