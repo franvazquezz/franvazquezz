@@ -41,6 +41,12 @@
             <td align="center">
               <h6><a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GitFlow" width="50" height="50"></a><p>GitFlow   </p></h6>
             </td>
+            <td align="center">
+              <h6><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="Next" width="50" height="50"></a><p>Next      </p></h6>
+            </td>
+            <td align="center">
+              <h6><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="50" height="50"></a><p>Tailwind  </p></h6>
+            </td>
           </tr>
         </table>
       </h6>
@@ -59,12 +65,6 @@
             </td>
             <td align="center">
               <h6><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50"></a><p>TypeScript</p></h6>
-            </td>
-            <td align="center">
-              <h6><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="Next" width="50" height="50"></a><p>Next      </p></h6>
-            </td>
-            <td align="center">
-              <h6><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="50" height="50"></a><p>Tailwind  </p></h6>
             </td>
           </tr>
         </table>
