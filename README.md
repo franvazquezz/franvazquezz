@@ -80,7 +80,7 @@ I've worked in three projects, the first one is an Intergation proyect with Rick
 
 Creative Canines
 
-https://creative-canines-fv.vercel.app/
+https://creative-canines-fv.vercel.app/ (DB is actually down)
 
 Gym Bro
 
